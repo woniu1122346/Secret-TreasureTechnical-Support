@@ -17,11 +17,7 @@ is very simple and only consists of 3 parts:
 ![two](https://github.com/woniu1122346/Secret-TreasureTechnical-Support/raw/main/imgs/screenshot1.jpg)
 ![three](https://github.com/woniu1122346/Secret-TreasureTechnical-Support/raw/main/imgs/screenshot1.jpg)
 
-# Video
- 
-<video width="560" height="315" src="https://dl13.btclod.com/v1/youtube/download/?file_id=TU43N2VmVkwxRjQ6dmlkZW86MjI6NzIwcDptcDQ=" controls="controls" poster=""></videos> 
-
-
+
 # Contact us
 
 **Email:** aimee.figueredo@gmx.net
